@@ -1,0 +1,57 @@
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\LAB 8.exe.config
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\LAB 8.exe
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\LAB 8.pdb
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\Npgsql.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Buffers.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Memory.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Text.Json.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.ValueTuple.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\Npgsql.pdb
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\Npgsql.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Buffers.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Memory.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Text.Json.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\System.ValueTuple.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.GenerateResource.cache
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.CoreCompileInputs.cache
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.CopyComplete
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.exe
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.pdb
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormAddStudent.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormEditStudent.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormStud.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.Menu.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormLectors.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormEditLector.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormAddLector.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormAddSub.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormEditSubject.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormSubject.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB_8.FormProgressCheck.resources
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\NPOI.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\NPOI.OOXML.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\rakhm\Documents\VP_LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csprojAssemblyReference.cache

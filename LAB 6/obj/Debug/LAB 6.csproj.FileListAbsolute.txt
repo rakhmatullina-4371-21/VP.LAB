@@ -1,0 +1,9 @@
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\bin\Debug\LAB 6.exe.config
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\bin\Debug\LAB 6.exe
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\bin\Debug\LAB 6.pdb
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB_6.Form1.resources
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB_6.Form2.resources
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB_6.Properties.Resources.resources
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB 6.csproj.GenerateResource.cache
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB 6.exe
+C:\Users\rakhm\source\repos\LAB 6\LAB 6\obj\Debug\LAB 6.pdb

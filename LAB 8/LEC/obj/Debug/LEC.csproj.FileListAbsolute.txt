@@ -1,0 +1,6 @@
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\bin\Debug\LEC.exe.config
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\bin\Debug\LEC.exe
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\bin\Debug\LEC.pdb
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\obj\Debug\LEC.csproj.CoreCompileInputs.cache
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\obj\Debug\LEC.exe
+C:\Users\rakhm\Documents\VP_LAB\LAB 9\LEC\obj\Debug\LEC.pdb
